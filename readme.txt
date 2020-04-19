@@ -1,7 +1,0 @@
-Welcome to my first repository 
-learning git is going well so far
-I added this line in updated readme branch
-<<<<<<< HEAD
-Its cloudy outside today
-=======
->>>>>>> update-readme
